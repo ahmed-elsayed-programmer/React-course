@@ -1,0 +1,13 @@
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.product-card,
+.user-card {
+    border: 1px solid #16bed7;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
